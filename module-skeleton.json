@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-conversation-analytics-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-conversation-analytics",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-conversation-analytics-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/conversation-analytics.md",
+  "presentationPlan": "projects/crm/vue/conversation-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
